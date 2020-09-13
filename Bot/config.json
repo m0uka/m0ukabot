@@ -1,0 +1,6 @@
+{
+    "token": "xxx",
+    "prefix": ">",
+    "ownerid": "xxx",
+    "refreshOnFileChange": true
+}
